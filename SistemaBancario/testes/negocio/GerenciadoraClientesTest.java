@@ -52,7 +52,8 @@ public class GerenciadoraClientesTest {
 		Cliente cliente = gerClientes.pesquisaCliente(idCliente1);
 		
 		/* === Verificações ===*/
-		assertThat(cliente.getId(), is(idCliente2));
+		assertThat(cliente.getId(), is(idCliente1));
+		//assertThat(cliente.getId(), is(idCliente2));
 		
 	}
 	
