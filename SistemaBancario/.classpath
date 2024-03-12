@@ -8,7 +8,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-	<classpathentry kind="lib" path="C:/Users/kleverton.pasoares/Downloads/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="C:/Users/kleverton.pasoares/Downloads/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Algoritmo/Senac/4º Semestre/2401 - TS - Testes de Software/Aula-TS/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Algoritmo/Senac/4º Semestre/2401 - TS - Testes de Software/Aula-TS/junit-4.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
